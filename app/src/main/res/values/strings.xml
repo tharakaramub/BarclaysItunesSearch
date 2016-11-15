@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MusicSearch</string>
+    <string name="country">Country</string>
+    <string name="continent">Continent</string>
+    <string name="capital">Capital</string>
+    <string name="code">In</string>
+    <string name="server_call">Tap on floating action button to make server call</string>
+    <string name="no_search_results">There is no search results found for entered text</string>
+    <string name="enter_search_data">please enter some text to search</string>
+    <string name="please_wait_text">Searching Please wait</string>
+    <string name="hint_text">Search music</string>
+    <string name="search_button">Search</string>
+    <string-array name="entity_array">
+        <item>movie</item>
+        <item>podcast</item>
+        <item>music</item>
+        <item>musicVideo</item>
+        <item>audiobook</item>
+        <item>shortFilm</item>
+        <item>tvShow</item>
+        <item>software</item>
+        <item>ebook</item>
+        <item>all</item>
+    </string-array>
+</resources>
